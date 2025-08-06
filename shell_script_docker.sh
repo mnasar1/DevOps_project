@@ -1,7 +1,7 @@
 #!/bin/bash
 #meta data: THis script will install docker on the ubuntu server and pull docker image and run that image.
 
-#Author Mohd Nasar
+#Author Mohd Nasar (Md)
 
 sudo apt update -y
 
@@ -18,3 +18,5 @@ docker pull mnasar12/rps
 docker run mnasar12/rps 
 
 docker ps
+
+
