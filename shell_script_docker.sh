@@ -5,9 +5,11 @@
 
 sudo apt update -y
 
+sudo apt install docker.io -y
+
 sudo usermod -aG docker ubuntu 
 
-usermod -aG docker ubuntu
+
 
 docker --version
 
