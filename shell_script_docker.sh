@@ -2,6 +2,7 @@
 #meta data: THis script will install docker on the ubuntu server and pull docker image and run that image.
 
 #Author Mohd Nasar
+#date : MM-DD-YYYY
 
 sudo apt update -y
 
